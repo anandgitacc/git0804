@@ -17,6 +17,9 @@ public class EmployeeDetails { // block or body of the class
 		System.out.println("Employee id : 1001");
 	}
 	//.......methods
+	private void empMobile() {
+		System.out.println("Employee mobile : 8939915557");
+	}
 	
 	public static void main(String[] args) {
 		
