@@ -20,6 +20,13 @@ public class EmployeeDetails { // block or body of the class
 	private void empStatus() {
 		System.out.println("Employee status : working / true");
 	}
+	private void empMobile() {
+		System.out.println("Employee mobile : 8939915557");
+	}
+//<<<<<<< HEAD
+//=======
+//>>>>>>> e5aaeeb7793f1e1f6a67f6f3df8fcb0ddb475c54
+//	}
 	
 	public static void main(String[] args) {
 		
