@@ -17,6 +17,9 @@ public class EmployeeDetails { // block or body of the class
 		System.out.println("Employee id : 1001");
 	}
 	//.......methods
+	private void empStatus() {
+		System.out.println("Employee status : working / true");
+	}
 	
 	public static void main(String[] args) {
 		
